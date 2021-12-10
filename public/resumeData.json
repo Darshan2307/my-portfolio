@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Darshan Rathod",
+    "occupation": "Software Engineer",
+    "description": "with 3 years of coding experience and more than 4 months of work experience.",
+    "image": "profilepic.JPG",
+    "about": [
+      {
+        "bio": "I am a Web developer and interested in the latest technologies and trends."
+      },
+      {
+        "bio": "I studied computer engineering at Sarvajanik College of Engineering and Technology in Surat, India. Currently, I am working at Accenture Solutions Pvt. Ltd. as a Associate Software Engineer."
+      },
+      {
+        "bio": "I am eager to constantly learn new things. At the moment, my focus is on the new Java 8 language features."
+      },
+      {
+        "bio": "For a comprehensive list of my work, please refer to my work page."
+      }
+    ],
+    "contactmessage": "Get in touch for more apps",
+    "email": "drathod2307@gmail.com",
+    "phone": "+91 9723810410",
+    "address": {
+      "street": "C-101, Yagna Flats",
+      "city": "Surat",
+      "state": "Gujarat, IN",
+      "zip": "395004"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1c22BvPx-JRLvJhffnb-EIvsXcgzLOxzx",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dj2307",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dj2307/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/darshan_2307/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Darshan2307",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sarvajanik College of Engineering & Technology",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "May 2017 - July 2021",
+        "description": "CGPA is 9.14."
+      }
+    ],
+    "work": [
+      {
+        "company": "Accenture",
+        "title": "Associate Software Engineer",
+        "years": "July 2021 - Present",
+        "description": "Currently, undergoing through Java training once in a week, where I have learnt Core java, Web Development - Servlet and JSP, Spring Framework, Junit 5, Maven, Git and Sonar Qube. Also, working on UAT(User Acceptance Testing)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Spring Boot",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Burger Builder (React JS)",
+        "category": "Burger building and ordering app",
+        "image": "burger.jpg",
+        "url": "https://react-my-burger-8bf06.web.app"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-62f03.web.app"
+      },
+      {
+        "title": "Pinterest Clone (React JS)",
+        "category": "",
+        "image": "pinterest.png",
+        "url": "https://github.com/Darshan2307/pinterest-clone"
+      },
+      {
+        "title": "To Do App (React JS)",
+        "category": "",
+        "image": "to-do.jpg",
+        "url": "https://darshan2307.github.io/to-do-app/"
+      },
+      {
+        "title": "Smart Clinic (PHP)",
+        "category": "Physical healthcard for each person to get rid of hospital files",
+        "image": "sc.jpg",
+        "url": "https://github.com/Darshan2307/Smart-Clinic"
+      },
+      {
+        "title": "Weather App (Node JS)",
+        "category": "Weather forecast by city",
+        "image": "weather.png",
+        "url": "https://github.com/Darshan2307/weather-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
